@@ -1,0 +1,14 @@
+{
+  "name": "放技 一問一答（診療放射線技師国家試験）",
+  "short_name": "放技一問一答",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f3f9",
+  "theme_color": "#1255b8",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
