@@ -1,6 +1,6 @@
-// 放技一問一答 オフライン用サービスワーカー
+// 放射線一問一答 オフライン用サービスワーカー
 // オンライン時は最新版を取りに行き（変更がなければ通信はごくわずか）、オフライン時は保存済みの版を使う
-const CACHE = 'houki-quiz-v2';
+const CACHE = 'houki-quiz-v3';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
